@@ -96,7 +96,6 @@ boston_crimes_project/
 ├── boston_crimes_etl.py    # основной ETL-скрипт
 ├── boston_crimes.ipynb     # ноутбук для разработки и отладки
 ├── README.md
-├── .gitignore
 ├── data/
 │   ├── crime.csv
 │   └── offense_codes.csv
