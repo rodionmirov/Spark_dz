@@ -104,14 +104,3 @@ boston_crimes_project/
     └── boston_crimes/
         └── part-00000-....parquet
 ```
-
-## .gitignore
-
-```
-.venv/
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-data/
-output/
-```
